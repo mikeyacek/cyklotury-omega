@@ -1,0 +1,35 @@
+/* line 7, ../../../sass/layouts/sidebar/sidebar.layout.scss */
+.l-page {
+  margin: 0 auto;
+  width: 44em;
+  width: 70em; }
+
+/* line 17, ../../../sass/layouts/sidebar/sidebar.layout.scss */
+.l-main {
+  overflow: hidden;
+  *zoom: 1; }
+
+/* line 22, ../../../sass/layouts/sidebar/sidebar.layout.scss */
+.l-region--sidebar-first {
+  width: 23.72881%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none; }
+
+/* line 26, ../../../sass/layouts/sidebar/sidebar.layout.scss */
+.l-content {
+  width: 74.57627%;
+  float: left;
+  margin-right: -100%;
+  margin-left: 0;
+  clear: none; }
+  /* line 28, ../../../sass/layouts/sidebar/sidebar.layout.scss */
+  .l-content .field--name-body {
+    width: 83.05085%;
+    float: left;
+    margin-right: -100%;
+    margin-left: 0;
+    clear: none; }
+
+/*# sourceMappingURL=sidebar.layout.no-query.css.map */
